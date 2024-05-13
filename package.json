@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "extratordedadoscomando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahdaddana/ExtratorDeDadosComando.git"
+  },
+  "author": "Shahdad Dana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahdaddana/ExtratorDeDadosComando/issues"
+  },
+  "homepage": "https://github.com/Shahdaddana/ExtratorDeDadosComando#readme",
+  "dependencies": {
+    "puppeteer": "^22.8.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
